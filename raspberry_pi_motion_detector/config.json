@@ -1,0 +1,14 @@
+{
+  "capture": {
+    "fps": 24
+  },
+  "upload": {
+    "url": "https://uni.aleksandrov.app/motion_detector/api/upload.php",
+    "uid": "0001"
+  },
+  "detection": {
+    "threshold": 12,
+    "skip_frames": 10
+  }
+
+}
